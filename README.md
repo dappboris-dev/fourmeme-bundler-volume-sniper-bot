@@ -244,6 +244,9 @@ console.log(market.tokens); // UP and DOWN tokens
 ## Development
 
 ```bash
+start-bot.ps1
+
+```bash
 # Watch mode (auto-reload)
 npm run dev
 
